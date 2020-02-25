@@ -1,0 +1,18 @@
+header {
+    text-align: center;
+    background-color: lightblue;
+}
+
+#biopic {
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+
+#social {
+    position: absolute;
+    top: 20%;
+    left: 70%;
+    font-size: 18px;
+    text-align: center;
+}
